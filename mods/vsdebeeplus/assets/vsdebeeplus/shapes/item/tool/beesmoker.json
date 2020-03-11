@@ -1,0 +1,158 @@
+{
+	"editor": {
+		"allAngles": false,
+		"singleTexture": true
+	},
+	"textureWidth": 16,
+	"textureHeight": 16,
+	"textures": {
+		"bismuthbronze": "item/tool/bismuthbronze"
+	},
+	"elements": [
+		{
+			"name": "Base",
+			"from": [ 7.0, 0.0, 5.0 ], 
+			"to": [ 10.0, 4.0, 9.0 ], 
+			"autoUnwrap": false,
+			"uv": [ 0.0, 8.0 ],
+			"rotationOrigin": [ 7.0, 0.0, 5.0 ],
+			"faces": {
+				"north": { "texture": "#bismuthbronze", "uv": [ 0.0, 12.0, 3.0, 16.0 ] },
+				"east": { "texture": "#bismuthbronze", "uv": [ 3.0, 12.0, 7.0, 16.0 ] },
+				"south": { "texture": "#bismuthbronze", "uv": [ 7.0, 12.0, 10.0, 16.0 ] },
+				"west": { "texture": "#bismuthbronze", "uv": [ 10.0, 12.0, 14.0, 16.0 ] },
+				"up": { "texture": "#bismuthbronze", "uv": [ 0.0, 8.0, 3.0, 12.0 ] },
+				"down": { "texture": "#bismuthbronze", "uv": [ 3.0, 8.0, 6.0, 12.0 ] }
+			},
+			"children": [
+				{
+					"name": "Round-1",
+					"from": [ 1.0, 0.0, -1.0 ], 
+					"to": [ 2.0, 4.0, 0.0 ], 
+					"autoUnwrap": false,
+					"uv": [ 0.0, 3.0 ],
+					"rotationOrigin": [ 1.0, 0.0, -1.0 ],
+					"faces": {
+						"north": { "texture": "#bismuthbronze", "uv": [ 0.0, 4.0, 1.0, 8.0 ] },
+						"east": { "texture": "#bismuthbronze", "uv": [ 1.0, 4.0, 2.0, 8.0 ] },
+						"south": { "texture": "#bismuthbronze", "uv": [ 2.0, 4.0, 3.0, 8.0 ] },
+						"west": { "texture": "#bismuthbronze", "uv": [ 3.0, 4.0, 4.0, 8.0 ] },
+						"up": { "texture": "#bismuthbronze", "uv": [ 0.0, 3.0, 1.0, 4.0 ] },
+						"down": { "texture": "#bismuthbronze", "uv": [ 1.0, 3.0, 2.0, 4.0 ] }
+					}
+				},
+				{
+					"name": "Round-2",
+					"from": [ 3.0, 0.0, 1.0 ], 
+					"to": [ 4.0, 4.0, 3.0 ], 
+					"unwrapRotation": 1,
+					"uv": [ 0.0, 6.0 ],
+					"rotationOrigin": [ 3.0, 0.0, 1.0 ],
+					"faces": {
+						"north": { "texture": "#bismuthbronze", "uv": [ 0.0, 8.0, 1.0, 12.0 ] },
+						"east": { "texture": "#bismuthbronze", "uv": [ 1.0, 8.0, 3.0, 12.0 ] },
+						"south": { "texture": "#bismuthbronze", "uv": [ 3.0, 8.0, 4.0, 12.0 ], "snapUv": false },
+						"west": { "texture": "#bismuthbronze", "uv": [ 4.0, 8.0, 6.0, 12.0 ] },
+						"up": { "texture": "#bismuthbronze", "uv": [ 0.0, 6.0, 1.0, 8.0 ] },
+						"down": { "texture": "#bismuthbronze", "uv": [ 1.0, 6.0, 2.0, 8.0 ] }
+					}
+				},
+				{
+					"name": "Round-3",
+					"from": [ -1.0, 0.0, 1.0 ], 
+					"to": [ 0.0, 4.0, 3.0 ], 
+					"unwrapMode": 1,
+					"autoUnwrap": false,
+					"uv": [ 1.0, 2.0 ],
+					"rotationOrigin": [ -1.0, 0.0, 1.0 ],
+					"faces": {
+						"north": { "texture": "#bismuthbronze", "uv": [ 3.0, 4.0, 4.0, 8.0 ] },
+						"east": { "texture": "#bismuthbronze", "uv": [ 1.0, 4.0, 3.0, 8.0 ] },
+						"south": { "texture": "#bismuthbronze", "uv": [ 6.0, 4.0, 7.0, 8.0 ] },
+						"west": { "texture": "#bismuthbronze", "uv": [ 4.0, 4.0, 6.0, 8.0 ] },
+						"up": { "texture": "#bismuthbronze", "uv": [ 3.0, 2.0, 4.0, 4.0 ], "rotation": 180 },
+						"down": { "texture": "#bismuthbronze", "uv": [ 3.0, 8.0, 4.0, 10.0 ] }
+					}
+				},
+				{
+					"name": "Hole-1",
+					"from": [ 1.0, 4.0, 0.0 ], 
+					"to": [ 2.0, 5.0, 2.0 ], 
+					"autoUnwrap": false,
+					"uv": [ 0.0, 0.0 ],
+					"rotationOrigin": [ 1.0, 4.0, 0.0 ],
+					"faces": {
+						"north": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
+						"east": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 2.0, 1.0 ] },
+						"south": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
+						"west": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 2.0, 1.0 ] },
+						"up": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 2.0 ] },
+						"down": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 2.0 ] }
+					}
+				},
+				{
+					"name": "Hole-2",
+					"from": [ 1.0, 5.0, -1.0 ], 
+					"to": [ 2.0, 6.0, 1.0 ], 
+					"autoUnwrap": false,
+					"uv": [ 0.0, 0.0 ],
+					"rotationOrigin": [ 1.0, 5.0, -1.0 ],
+					"faces": {
+						"north": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
+						"east": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 2.0, 1.0 ] },
+						"south": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
+						"west": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 2.0, 1.0 ] },
+						"up": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 2.0 ] },
+						"down": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 2.0 ] }
+					}
+				}
+			]
+		},
+		{
+			"name": "Handle",
+			"from": [ 8.0, 0.0, 9.0 ], 
+			"to": [ 9.0, 1.0, 10.0 ], 
+			"uv": [ 0.0, 0.0 ],
+			"rotationOrigin": [ 8.0, 0.0, 9.0 ],
+			"faces": {
+				"north": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
+				"east": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
+				"south": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
+				"west": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
+				"up": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
+				"down": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 1.0 ] }
+			},
+			"children": [
+				{
+					"name": "Handle-2",
+					"from": [ 0.0, 0.0, 1.0 ], 
+					"to": [ 1.0, 4.0, 2.0 ], 
+					"uv": [ 0.0, 0.0 ],
+					"rotationOrigin": [ 0.0, 0.0, 1.0 ],
+					"faces": {
+						"north": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 4.0 ] },
+						"east": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 4.0 ] },
+						"south": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 4.0 ] },
+						"west": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 4.0 ] },
+						"up": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
+						"down": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 1.0 ] }
+					}
+				},
+				{
+					"name": "Handle-3",
+					"from": [ 0.0, 3.0, 0.0 ], 
+					"to": [ 1.0, 4.0, 1.0 ], 
+					"uv": [ 0.0, 0.0 ],
+					"rotationOrigin": [ 0.0, 3.0, 0.0 ],
+					"faces": {
+						"north": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
+						"east": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
+						"south": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
+						"west": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
+						"up": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
+						"down": { "texture": "#bismuthbronze", "uv": [ 0.0, 0.0, 1.0, 1.0 ] }
+					}
+				}
+			]
+		}
+	]}

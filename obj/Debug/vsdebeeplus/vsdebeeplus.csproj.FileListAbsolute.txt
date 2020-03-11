@@ -1,0 +1,5 @@
+D:\Code\VintageStory\vsmods\bin\Debug\vsdebeeplus\vsdebeeplus.dll
+D:\Code\VintageStory\vsmods\bin\Debug\vsdebeeplus\vsdebeeplus.pdb
+D:\Code\VintageStory\vsmods\obj\Debug\vsdebeeplus\vsdebeeplus.csprojAssemblyReference.cache
+D:\Code\VintageStory\vsmods\obj\Debug\vsdebeeplus\vsdebeeplus.dll
+D:\Code\VintageStory\vsmods\obj\Debug\vsdebeeplus\vsdebeeplus.pdb

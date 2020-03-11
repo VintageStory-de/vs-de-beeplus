@@ -1,0 +1,87 @@
+{
+  "code": "beesmoker",
+  "class": "beesmoker",
+  "maxstacksize": 1,
+  "durability": 0,
+  "shape": {
+    "base": "item/tool/beesmoker"
+  },
+  "creativeinventory": {
+    "general": [ "*" ],
+    "items": [ "*" ],
+    "tools": [ "*" ]
+  },
+  "texture": { "base": "item/tool/bismuthbronze" },
+  "guiTransform": {
+    "translation": {
+      "x": 42,
+      "y": 20,
+      "z": 0
+    },
+    "rotation": {
+      "x": -31,
+      "y": -63,
+      "z": -180
+    },
+    "origin": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": 2.42
+  },
+  "fpHandTransform": {
+    "translation": {
+      "x": 5,
+      "y": -9,
+      "z": 4
+    },
+    "rotation": {
+      "x": 43,
+      "y": 23,
+      "z": -5
+    },
+    "origin": {
+      "x": 0,
+      "y": 0,
+      "z": 5
+    },
+    "scale": 6
+  },
+  "tpHandTransform": {
+    "translation": {
+      "x": -0.7,
+      "y": -0.1,
+      "z": 0.5
+    },
+    "rotation": {
+      "x": -17,
+      "y": -94,
+      "z": 18
+    },
+    "origin": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": 0.58
+  },
+  "groundTransform": {
+    "translation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 1,
+      "y": -84,
+      "z": 1
+    },
+    "origin": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": 3.95
+  }
+}

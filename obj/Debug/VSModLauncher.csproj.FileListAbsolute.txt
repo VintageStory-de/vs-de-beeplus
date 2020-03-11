@@ -1,0 +1,22 @@
+C:\Users\Matth\Documents\Programmierung\Vintage Story\vsmodtemplate\bin\Debug\VSModLauncher.dll
+C:\Users\Matth\Documents\Programmierung\Vintage Story\vsmodtemplate\bin\Debug\VSModLauncher.pdb
+C:\Users\Matth\Documents\Programmierung\Vintage Story\vsmodtemplate\bin\Debug\VSSurvivalMod.dll
+C:\Users\Matth\Documents\Programmierung\Vintage Story\vsmodtemplate\bin\Debug\VSCreativeMod.dll
+C:\Users\Matth\Documents\Programmierung\Vintage Story\vsmodtemplate\bin\Debug\Tavis.JsonPatch.dll
+C:\Users\Matth\Documents\Programmierung\Vintage Story\vsmodtemplate\obj\Debug\VSModLauncher.dll
+C:\Users\Matth\Documents\Programmierung\Vintage Story\vsmodtemplate\obj\Debug\VSModLauncher.pdb
+C:\Users\Matth\Documents\Programmierung\Vintage Story\vsmodtemplate\bin\Debug\VSEssentials.dll
+C:\Users\Matth\Documents\Programmierung\Vintage Story\vsmodtemplate\obj\Debug\VSModLauncher.csprojAssemblyReference.cache
+C:\Users\Matth\Documents\Programmierung\Vintage Story\vsmodtemplate\obj\Debug\VSModLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Matth\Documents\Programmierung\Vintage Story\vsmodtemplate\obj\Debug\VSModLauncher.csproj.CopyComplete
+D:\Code\VintageStory\vsmods\bin\Debug\VSModLauncher.dll
+D:\Code\VintageStory\vsmods\bin\Debug\VSModLauncher.pdb
+D:\Code\VintageStory\vsmods\bin\Debug\VSSurvivalMod.dll
+D:\Code\VintageStory\vsmods\bin\Debug\VSCreativeMod.dll
+D:\Code\VintageStory\vsmods\bin\Debug\VSEssentials.dll
+D:\Code\VintageStory\vsmods\bin\Debug\Tavis.JsonPatch.dll
+D:\Code\VintageStory\vsmods\bin\Debug\Tavis.JsonPatch.pdb
+D:\Code\VintageStory\vsmods\obj\Debug\VSModLauncher.csprojAssemblyReference.cache
+D:\Code\VintageStory\vsmods\obj\Debug\VSModLauncher.csproj.CopyComplete
+D:\Code\VintageStory\vsmods\obj\Debug\VSModLauncher.dll
+D:\Code\VintageStory\vsmods\obj\Debug\VSModLauncher.pdb

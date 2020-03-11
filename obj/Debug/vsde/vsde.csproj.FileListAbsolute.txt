@@ -1,0 +1,5 @@
+D:\Code\VintageStory\vsmods\bin\Debug\vsde\vsde.dll
+D:\Code\VintageStory\vsmods\bin\Debug\vsde\vsde.pdb
+D:\Code\VintageStory\vsmods\obj\Debug\vsde\vsde.dll
+D:\Code\VintageStory\vsmods\obj\Debug\vsde\vsde.pdb
+D:\Code\VintageStory\vsmods\obj\Debug\vsde\vsde.csprojAssemblyReference.cache

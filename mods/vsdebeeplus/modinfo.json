@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "modid": "vsdebeeplus",
+  "name": "Bee Plus",
+  "author": "Minkenstein",
+  "description": "Add usefull Tools and Mechanics to the basic Bee Keeping.",
+  "version": "0.2-Alpha",
+  "dependency": {
+    "game": ""
+  }
+}
